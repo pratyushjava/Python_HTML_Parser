@@ -1,2 +1,2 @@
 # Python_HTML_Parser
-HTML Parser In 90 Minutes
+Python code for Parsing HTML file and extracting meaning full informations.
